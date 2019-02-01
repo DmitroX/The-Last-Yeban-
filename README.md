@@ -1,4 +1,4 @@
 # The-Last-Yeban-
-Основатели проекта
-Dmitro
-AdmiralBuldiga
+#Основатели проекта
+#Dmitro
+#AdmiralBuldiga
